@@ -1,12 +1,12 @@
 ![DMT Meshes, subtitle: Generative 3D Meshes built-in to Blender](docs/assets/banner.png)
 
-[![Latest Release](https://flat.badgen.net/github/release/Firwork-Games-AI-Division/dmt-meshes)](https://github.com/Firework-Games-AI-Division/dmt-meshes/releases/latest)
+[![Latest Release](https://flat.badgen.net/github/release/Firework-Games-AI-Division/dmt-meshes)](https://github.com/Firework-Games-AI-Division/dmt-meshes/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Firework-Games-AI-Division/dmt-meshes/total?style=flat-square)](https://github.com/Firework-Games-AI-Division/dmt-meshes/releases/latest)
 
 * Create point clouds or meshes with a simple text prompt or image.
 
 # Installation
-Download the [latest release](https://github.com/Firwork-Games-AI-Division/dmt-meshes/releases/latest) and follow the instructions there to get up and running.
+Download the [latest release](https://github.com/Firework-Games-AI-Division/dmt-meshes/releases/latest) and follow the instructions there to get up and running.
 
 ## [Setting Up](docs/SETUP.md)
 Setup instructions for various platforms and configurations.
