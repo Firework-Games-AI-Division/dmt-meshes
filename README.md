@@ -3,30 +3,30 @@
 [![Latest Release](https://flat.badgen.net/github/release/Firework-Games-AI-Division/dmt-meshes)](https://github.com/Firework-Games-AI-Division/dmt-meshes/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Firework-Games-AI-Division/dmt-meshes/total?style=flat-square)](https://github.com/Firework-Games-AI-Division/dmt-meshes/releases/latest)
 
-* Create point clouds or meshes with a simple text prompt or image.
+* Our goal is to simplfy 3D generation pipeline, this plugin serve to create point clouds or meshes with a simple text prompt or image.
 
 # Installation
-Download the [latest release](https://github.com/Firework-Games-AI-Division/dmt-meshes/releases/latest) and follow the instructions there to get up and running.
+To get it up and running, simply download the [latest release](https://github.com/Firework-Games-AI-Division/dmt-meshes/releases/latest), follow the instructions.
 
 ## [Setting Up](docs/SETUP.md)
-Setup instructions for various platforms and configurations.
+Outline the setup instructions for various platforms and configurations.
 
 ## [Mesh Generation](docs/MESH_GENERATION.md)
-Create point clouds or meshes with text prompts or images. Learn how to use the various configuration options to get exactly what you're looking for.
+Transform your text prompts or images into captivating point clouds and meshes. Discover the various configuration options so that you can craft precisely what you envision!
 
 # Contributing
-After cloning the repository, there a few more steps you need to complete to setup your development environment:
-We recommend the [Blender Development](https://marketplace.visualstudio.com/items?itemName=JacquesLucke.blender-development) extension for VS Code for debugging. If you just want to install manually though, you can put the `dmt_meshes` repo folder in Blender's addon directory.
+To ensure successful development, you must take a few extra steps after cloning the repository. 
+We recommend the [Blender Development](https://marketplace.visualstudio.com/items?itemName=JacquesLucke.blender-development) extension for VS Code for debugging purposes. Alternatively, manual installation is available as well. Simply put the `dmt_meshes` repo folder in Blender's addon directory.
 3. After running the local add-on in Blender, setup the model weights like normal.
-4. Install dependencies locally
-    * Open Blender's preferences window
-    * Enable *Interface* > *Display* > *Developer Extras*
-    * Then install dependencies for development under *Add-ons* > *DMT Meshes* > *Development Tools*
+4. To install dependencies locally, follow these steps: 
+    *  Open the Preferences window in Blender
+    * Check the box to enable *Interface* > *Display* > *Developer Extras*
+    * Proceed to install dependencies for development under *Add-ons* > *DMT Meshes* > *Development Tools*
     * This will download all pip dependencies for the selected platform into `.python_dependencies`
 
 # Credits
 
-Parts of code/scripts are inspired/borrowed from:
+Parts of code/scripts are inspired from:
  - [dream-textures](https://github.com/carson-katri/dream-textures/)
  - [Point-E](https://github.com/openai/point-e)
  - [DMTet](https://github.com/NVIDIAGameWorks/kaolin/)
