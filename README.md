@@ -1,7 +1,7 @@
 ![DMT Meshes, subtitle: Generative 3D Meshes built-in to Blender](docs/assets/banner.png)
 
 [![Latest Release](https://flat.badgen.net/github/release/Firework-Games-AI-Division/dmt-meshes)](https://github.com/Firework-Games-AI-Division/dmt-meshes/releases/latest)
-[![Total Downloads](https://img.shields.io/github/downloads/Firework-Games-AI-Division/dmt-meshes/total?style=flat-square)](https://github.com/Firework-Games-AI-Division/dmt-meshes/releases/latest)
+[![Join the Discord](https://flat.badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/TsrMtEHe)
 
 * Our goal is to simplfy 3D generation pipeline, this plugin serve to create point clouds or meshes with a simple text prompt or image.
 
