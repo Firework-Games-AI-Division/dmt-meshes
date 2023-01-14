@@ -19,9 +19,13 @@ To ensure successful development, you must take a few extra steps after cloning 
 We recommend the [Blender Development](https://marketplace.visualstudio.com/items?itemName=JacquesLucke.blender-development) extension for VS Code for debugging purposes. Alternatively, manual installation is available as well. Simply put the `dmt_meshes` repo folder in Blender's addon directory.
 3. After running the local add-on in Blender, setup the model weights like normal.
 4. To install dependencies locally, follow these steps: 
+
     *  Open the Preferences window in Blender
+    
     * Check the box to enable *Interface* > *Display* > *Developer Extras*
+    
     * Proceed to install dependencies for development under *Add-ons* > *DMT Meshes* > *Development Tools*
+    
     * This will download all pip dependencies for the selected platform into `.python_dependencies`
 
 # Contributing to our cause
